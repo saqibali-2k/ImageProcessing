@@ -1,0 +1,48 @@
+Z:\docs\Data\Tara\CoursePrep\ICS4U\ImageProcessing\bin\Debug\ImageProcessing.exe
+Z:\docs\Data\Tara\CoursePrep\ICS4U\ImageProcessing\bin\Debug\ImageProcessing.pdb
+Z:\docs\Data\Tara\CoursePrep\ICS4U\ImageProcessing\obj\Debug\ImageProcessing.csprojResolveAssemblyReference.cache
+Z:\docs\Data\Tara\CoursePrep\ICS4U\ImageProcessing\obj\Debug\ImageProcessing.Form1.resources
+Z:\docs\Data\Tara\CoursePrep\ICS4U\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+Z:\docs\Data\Tara\CoursePrep\ICS4U\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+Z:\docs\Data\Tara\CoursePrep\ICS4U\ImageProcessing\obj\Debug\ImageProcessing.exe
+Z:\docs\Data\Tara\CoursePrep\ICS4U\ImageProcessing\obj\Debug\ImageProcessing.pdb
+C:\Users\Saqib Ali\Downloads\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
+C:\Users\Saqib Ali\Downloads\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
+C:\Users\Saqib Ali\Downloads\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
+C:\Users\Saqib Ali\Downloads\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\Users\Saqib Ali\Downloads\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csprojResolveAssemblyReference.cache
+C:\Users\Saqib Ali\Downloads\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Form1.resources
+C:\Users\Saqib Ali\Downloads\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\Users\Saqib Ali\Downloads\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+\\2252-CMS-01\2252 Students$\591511\Downloads\ImageProcessing-20180418T134717Z-001\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
+\\2252-CMS-01\2252 Students$\591511\Downloads\ImageProcessing-20180418T134717Z-001\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
+\\2252-CMS-01\2252 Students$\591511\Downloads\ImageProcessing-20180418T134717Z-001\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
+\\2252-CMS-01\2252 Students$\591511\Downloads\ImageProcessing-20180418T134717Z-001\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
+\\2252-CMS-01\2252 Students$\591511\Downloads\ImageProcessing-20180418T134717Z-001\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csprojResolveAssemblyReference.cache
+\\2252-CMS-01\2252 Students$\591511\Downloads\ImageProcessing-20180418T134717Z-001\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Form1.resources
+\\2252-CMS-01\2252 Students$\591511\Downloads\ImageProcessing-20180418T134717Z-001\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+\\2252-CMS-01\2252 Students$\591511\Downloads\ImageProcessing-20180418T134717Z-001\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+C:\Users\Saqib Ali\Downloads\ImageProcessing-18\ImageProcessing-20180418T134717Z-001\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
+C:\Users\Saqib Ali\Downloads\ImageProcessing-18\ImageProcessing-20180418T134717Z-001\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
+C:\Users\Saqib Ali\Downloads\ImageProcessing-18\ImageProcessing-20180418T134717Z-001\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
+C:\Users\Saqib Ali\Downloads\ImageProcessing-18\ImageProcessing-20180418T134717Z-001\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\Users\Saqib Ali\Downloads\ImageProcessing-18\ImageProcessing-20180418T134717Z-001\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csprojResolveAssemblyReference.cache
+C:\Users\Saqib Ali\Downloads\ImageProcessing-18\ImageProcessing-20180418T134717Z-001\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Form1.resources
+C:\Users\Saqib Ali\Downloads\ImageProcessing-18\ImageProcessing-20180418T134717Z-001\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\Users\Saqib Ali\Downloads\ImageProcessing-18\ImageProcessing-20180418T134717Z-001\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+\\2252-CMS-01\2252 Students$\591511\Downloads\ImageProcessing\ImageProcessing-18\ImageProcessing-20180418T134717Z-001\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
+\\2252-CMS-01\2252 Students$\591511\Downloads\ImageProcessing\ImageProcessing-18\ImageProcessing-20180418T134717Z-001\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
+\\2252-CMS-01\2252 Students$\591511\Downloads\ImageProcessing\ImageProcessing-18\ImageProcessing-20180418T134717Z-001\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
+\\2252-CMS-01\2252 Students$\591511\Downloads\ImageProcessing\ImageProcessing-18\ImageProcessing-20180418T134717Z-001\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
+\\2252-CMS-01\2252 Students$\591511\Downloads\ImageProcessing\ImageProcessing-18\ImageProcessing-20180418T134717Z-001\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csprojResolveAssemblyReference.cache
+\\2252-CMS-01\2252 Students$\591511\Downloads\ImageProcessing\ImageProcessing-18\ImageProcessing-20180418T134717Z-001\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Form1.resources
+\\2252-CMS-01\2252 Students$\591511\Downloads\ImageProcessing\ImageProcessing-18\ImageProcessing-20180418T134717Z-001\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+\\2252-CMS-01\2252 Students$\591511\Downloads\ImageProcessing\ImageProcessing-18\ImageProcessing-20180418T134717Z-001\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+C:\Users\Saqib Ali\Downloads\ImageProcessing\obj\Debug\ImageProcessing.exe
+C:\Users\Saqib Ali\Downloads\ImageProcessing\obj\Debug\ImageProcessing.pdb
+C:\Users\Saqib Ali\Downloads\ImageProcessing\bin\Debug\ImageProcessing.exe
+C:\Users\Saqib Ali\Downloads\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\Users\Saqib Ali\Downloads\ImageProcessing\obj\Debug\ImageProcessing.csprojResolveAssemblyReference.cache
+C:\Users\Saqib Ali\Downloads\ImageProcessing\obj\Debug\ImageProcessing.Form1.resources
+C:\Users\Saqib Ali\Downloads\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\Users\Saqib Ali\Downloads\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
